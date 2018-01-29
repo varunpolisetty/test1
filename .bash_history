@@ -151,3 +151,57 @@ tar -xvzf work.tar.gz
 ls
 ls 
 ls -l
+git clone https://github.com/carreerit/mavenrepo.git
+git add -m 'push'
+git add 
+git commit -m push
+git clone https://github.com/carreerit/mavenrepo.git
+l
+ls -a
+rm -rf mavenrepo/
+ls
+ls -a
+git clone https://github.com/carreerit/mavenrepo.git
+git add
+git add.
+git add .
+ls
+git commit -m
+git commit -m "push"
+git push origin master
+ls
+git clone https://github.com/varunpolisetty/mavenrepo.git
+ls
+cd mavenrepo/
+ls
+cd src/
+ls
+cd ..
+cd WebContent/
+ls
+cd ..
+ls
+vim deploy
+ls
+vim deploy
+git add
+git add .
+git commit -m ""new file 
+git commit -m "new file"\ 
+git push origin master
+cd ..
+ls
+chmod -x mavenrepo/
+git push origin master
+ls
+cd mavenrepo/
+ls -a
+cd .git/
+ls
+cd ..
+ls
+git add
+git add .
+git statis
+git status
+git clean

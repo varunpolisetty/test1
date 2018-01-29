@@ -8,8 +8,9 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q!
 :wq!
+:wQ1
+:q!
 
 # Search String History (newest to oldest):
 
@@ -26,15 +27,54 @@
 	
 
 # File marks:
-'0  6  0  /work/work.tar
-'1  1  7  ~/test3/touch1.txt
+'0  2  9  ~/mavenrepo/inventory
+'1  1  27  ~/mavenrepo/deploy
+'2  6  0  /work/work.tar
+'3  1  7  ~/test3/touch1.txt
 
 # Jumplist (newest first):
+-'  2  9  ~/mavenrepo/inventory
+-'  1  0  ~/mavenrepo/inventory
+-'  1  27  ~/mavenrepo/deploy
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
+-'  1  27  ~/mavenrepo/deploy
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
+-'  6  0  /work/work.tar
+-'  1  7  ~/test3/touch1.txt
+-'  1  7  ~/test3/touch1.txt
 -'  6  0  /work/work.tar
 -'  1  7  ~/test3/touch1.txt
 -'  1  7  ~/test3/touch1.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/mavenrepo/inventory
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
+> ~/mavenrepo/deploy
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
 
 > /work/work.tar
 	"	6	0
